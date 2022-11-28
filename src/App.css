@@ -1,0 +1,15 @@
+.App
+{
+  text-align: center;
+}
+.mybtn
+{
+  width: 100px;
+   height: 50px;
+    background-color: red;
+}
+.mypic
+{
+  width: 200px;
+  position: relative;
+}
